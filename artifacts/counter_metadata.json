@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/counterNFT.sol": "counter"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/counterNFT.sol": {
+			"keccak256": "0x23f9af10c3adf4b7ac2542ef7e456c6ff3074bd92c69d252ae6097a65a23faf4",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1af9dbad0f84c3cebd92b55c51c0227728fd6fddd4b96c0529f19985af0b97ba",
+				"dweb:/ipfs/QmQe4vUtrdxV3S9FNXDA6MNC6MZkE8XGsqEjJMCeCffz5Q"
+			]
+		}
+	},
+	"version": 1
+}
